@@ -17,11 +17,11 @@ h2 {
 }
 
 h3 {
-	list-style-type: none;
 	color: rgb(241, 255, 107);
 	text-align: center;
 }
 
 h4 {
+	list-style-type: none;
 	color: rgb(241, 255, 107);
 }
