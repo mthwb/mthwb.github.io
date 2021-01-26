@@ -13,12 +13,15 @@ h1 {
 h2 {
 	color: rgb(255, 255, 255);
 	text-transform: uppercase;
+	text-align: center;
 }
 
 h3 {
 	color: rgb(241, 255, 107);
+	text-align: center;
 }
 
 h4 {
 	color: rgb(241, 255, 107);
+	text-align: center;
 }
