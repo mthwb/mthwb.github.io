@@ -9,7 +9,7 @@ body {
 
 img {
     width: 100%; /*Please leave this line.*/
-    background-image: image(Lasagna/lasagna.jpg)
+    background-image: image(lasagna.jpg)
 }
 
 h1 {
