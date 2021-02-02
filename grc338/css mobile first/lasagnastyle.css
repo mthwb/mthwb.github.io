@@ -7,10 +7,9 @@ body {
 	background-color: rgb(255, 255, 255);
 }
 
-<img src="images/lasag.jpg">
-
 img {
     width: 100%; /*Please leave this line.*/
+    background-image: image(Lasagna/lasagna.jpg)
 }
 
 h1 {
