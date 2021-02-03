@@ -5,7 +5,8 @@ body {
 }
 
 img {
-    width: 100%; /*Please leave this line.*/
+	width: 100%; /*Please leave this line.*/
+	padding-bottom: 1em;
 }
 
 h1 {
