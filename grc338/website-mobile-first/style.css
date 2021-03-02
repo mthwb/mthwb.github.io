@@ -37,12 +37,6 @@ nav ul li a{
 	text-decoration: none;
 	color: #8ad5f3;
 }
-#logo {
-    width: 100px;
-	height: 100px;
-	margin-right: auto;
-	margin-left: auto;
-}
 img {
     display: block;
     margin-left: auto;
@@ -62,4 +56,9 @@ img {
 
 ul li {
     list-style-type: none;
+    
+}
+
+p {
+    text-align: center
 }
